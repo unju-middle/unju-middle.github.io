@@ -1,15 +1,15 @@
 main:
-  - title: "About"
+  - title: "about"
     url: /about
 #  - title: "News"
 #    url: /news
 #  - title: "Technology"
 #    url: /technology
-#  - title: "Blog"
-#    url: /posts
+  - title: "blog"
+    url: /posts
 #  - title: "Team"
 #    url: /team
-#  - title: "Tags"
-#    url: /tags
-#  - title: "categories"
-#    url: /categories
+  - title: "tags"
+    url: /tags
+  - title: "categories"
+    url: /categories

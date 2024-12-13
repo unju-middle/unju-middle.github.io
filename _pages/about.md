@@ -8,5 +8,5 @@ permalink: /about/
 	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
-언주중학교 8회 동문 홈페이지
+언주중학교 동문 홈페이지
 

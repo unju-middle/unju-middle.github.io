@@ -16,9 +16,9 @@
 
 repository: parkkimyun/parkkimyun.github.io
 
-title: 언주중학교 8회 동문
+title: 언주중학교 동문회 홈피
 email: unju.middle.8@gmail.com
-description: Unju Middle School Alum 8
+description: Unju Middle School Alum
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -33,7 +33,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
