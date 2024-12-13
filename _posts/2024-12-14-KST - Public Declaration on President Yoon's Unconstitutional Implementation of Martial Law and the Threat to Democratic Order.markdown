@@ -131,3 +131,6 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 2024년 12월 14일
 
 언주중학교 동문 일동
+
+
+<a href="http://sungheeyun.github.io">윤성희</a>
