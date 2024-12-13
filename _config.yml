@@ -70,7 +70,7 @@ author:
 #  email            : park.kim.yun.sv@gmail.com
   links:
     - label: "GitHub"
-      icon: "fa-brands fa-github-alt"
+      icon: "fa-brands fa-github"
       url: "https://github.com/unju-middle/unju-middle.github.io"
     - label: "Email"
       icon: "fa-regular fa-envelope"
@@ -83,7 +83,7 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fa-brands fa-github-alt"
+      icon: "fa-brands fa-github"
       url: "https://github.com/unju-middle/unju-middle.github.io"
     - label: "Email"
       icon: "fa-regular fa-envelope"
