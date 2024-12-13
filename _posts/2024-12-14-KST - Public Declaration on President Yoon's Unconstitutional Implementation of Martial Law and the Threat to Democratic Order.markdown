@@ -133,4 +133,5 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 언주중학교 동문 일동
 
 
+성태웅,
 <a href="http://sungheeyun.github.io">윤성희</a>
