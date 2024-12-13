@@ -69,28 +69,28 @@ author:
 #  location         : "Silicon Valley"
 #  email            : park.kim.yun.sv@gmail.com
   links:
+    - label: "GitHub"
+      icon: "fa-brands fa-github-alt"
+      url: "https://github.com/unju-middle/unju-middle.github.io"
     - label: "Email"
       icon: "fa-regular fa-envelope"
       url: "mailto:unju.middle.8@gmail.com"
     - label: 언주중학교
       icon: "fa-solid fa-map-pin"
       url: "https://naver.me/GOuDkAZY"
-    - label: "GitHub"
-      icon: "fa-brands fa-github-alt"
-      url: "https://github.com/unju-middle/unju-middle.github.io"
 
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fa-brands fa-github-alt"
+      url: "https://github.com/unju-middle/unju-middle.github.io"
     - label: "Email"
       icon: "fa-regular fa-envelope"
       url: "mailto:unju.middle.8@gmail.com"
     - label: 언주중학교
       icon: "fa-solid fa-map-pin"
       url: "https://naver.me/GOuDkAZY"
-    - label: "GitHub"
-      icon: "fa-brands fa-github-alt"
-      url: "https://github.com/unju-middle/unju-middle.github.io"
 
 defaults:
   # _posts
