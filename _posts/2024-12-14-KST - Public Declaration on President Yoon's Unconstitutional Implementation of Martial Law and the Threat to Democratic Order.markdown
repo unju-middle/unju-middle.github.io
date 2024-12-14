@@ -132,6 +132,6 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 국민일동
 
-성태웅
+성태웅成泰雄
 <a href="https://www.linkedin.com/in/sungheeyun/">윤성희尹聖熙</a>
 황보선
